@@ -1,0 +1,18 @@
+{
+  "name": "persian-calender",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch style.scss style.css"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^38.1.2"
+  },
+  "dependencies": {
+    "sass": "^1.93.0",
+    "yarn": "^1.22.22"
+  }
+}
